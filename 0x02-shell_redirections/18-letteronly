@@ -1,0 +1,3 @@
+#!/bin/bash
+egrep ^[[:alpa:]]
+/etc/ssh/sshd_config
